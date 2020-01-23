@@ -1,0 +1,52 @@
+body{
+	
+	background-color:#00c0d7;
+	color: #ecf0f1;
+}
+.text{
+	font-size: 18px;
+	font-family: sans-serif;
+}
+.myform{
+	font-size: 2vw;
+	margin-left:30%;
+	background-color: #2ecc71;
+	text-align: center;
+	width: 40%;
+	height: auto;
+	border: 2px solid white;
+	border-radius: 10px;
+	float: left;
+
+}
+.submit{
+	background-color: #3498db;
+	color: white;
+	padding:10px;
+	margin-top: 10px;
+	font-size:2vw;
+	width: 90%;
+}
+.signup{
+	background-color:#e74c3c;
+	color: white;
+	padding:10px;
+	font-size:2vw; 
+	margin-top: 5px;
+	margin-bottom: 10px;
+	width: 90%;
+}
+.img{
+	max-width: 40%;
+	height: auto;
+
+}
+.inputvalue{
+	width: 95%;
+	margin: 5px auto;
+	padding: 5px;
+}
+.label{
+	text-align: left;
+	margin:5px 15px;
+}
